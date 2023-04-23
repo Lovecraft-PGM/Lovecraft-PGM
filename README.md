@@ -1,9 +1,9 @@
-### Hi there 👋.
+### Hello Everyone👋.
 ## I'm Lovecraft-PGM a developer Colombian in progress 👨‍💻.
 
-**Pseudonym Lovecraft-PGM I am an enthusiastic beginner _to train_ as a professional within the software development industry.**
+**Pseudonym Lovecraft-PGM I am an enthusiastic beginner _for train_ as a professional within the software development industry**
 
-### web 👉. 
+### Web 👉. 
 <!--
 **Lovecraft-PGM/Lovecraft-pgm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
